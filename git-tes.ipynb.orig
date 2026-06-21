@@ -13,11 +13,15 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "983b3c28",
+   "id": "a4d779e2",
    "metadata": {},
    "outputs": [],
    "source": [
-    "print('merge test. testmerge')"
+<<<<<<< HEAD
+    "print('merge tool tryout, oh no its not agreeing')"
+=======
+    "print('merge tool tryout, oh no its not inn accordance committed')"
+>>>>>>> main
    ]
   },
   {
